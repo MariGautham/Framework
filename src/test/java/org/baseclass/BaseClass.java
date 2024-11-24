@@ -10,6 +10,14 @@ public class BaseClass {
 	public void chennai() {
 		System.out.println("Chennai");
 	}
+	 public void branch() {
+		System.out.println("OMR Branch");
+
+	}
+	 public void branch1() {
+		System.out.println("Thoraipakkam");
+
+	}
 	
 
 }
