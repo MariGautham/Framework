@@ -29,6 +29,13 @@ public class BaseClass {
 	System.out.println("7334567890");
 
 	}
-	
+	public void course() {
+		System.out.println("Selenium");
+
+	}
+	public void courseduration() {
+		System.out.println("3 months");
+
+	}
 
 }
